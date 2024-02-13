@@ -1,0 +1,26 @@
+.nav {
+    grid-area: n;
+    background-color: burlywood;
+    padding: 20px;
+}
+
+.item {
+    color: white;
+    font-family: "Arial Black";
+    text-decoration-line: none;
+}
+
+.active {
+    color: #ff6801;
+}
+
+.friendsBlock{
+    color: #7d5d3b;
+    padding-top: 50px;
+    font-family: "Arial Black";
+}
+
+.friends{
+    color: aliceblue;
+    margin-top: 10px;
+}

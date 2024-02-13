@@ -1,0 +1,19 @@
+.selectedPage {
+    color: #ff6801;
+    font-weight: bold;
+}
+
+.paginator {
+    color: azure;
+    font-family: "Microsoft Yi Baiti"
+}
+
+.button {
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+    border:none;
+    border-radius:10px;
+    min-height:30px;
+    min-width: 60px;
+}
